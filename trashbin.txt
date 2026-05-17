@@ -1,0 +1,22 @@
+import requests
+
+
+
+response = requests.delete("https://jsonplaceholder.typicode.com/posts/1")
+print(response.status_code)
+print(response.json())
+
+ 
+r.raise_for_status()  
+data = r.json()  
+ 
+timeout=(5, 15)
+ 
+[0]
+ 
+  # JSON ని Python list/dict గా
+ 
+# 4xx/5xx errors ఉంటే ఎర్రర్ వేస్తుంది
+ 
+# (connect=5s, read=15s)
+ 

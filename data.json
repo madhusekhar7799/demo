@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "age": 20,
+      "grade": "A",
+      "subjects": ["Math", "Science", "English"]
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "age": 21,
+      "grade": "B",
+      "subjects": ["History", "Economics", "Political Science"]
+    },
+    {
+      "id": 3,
+      "name": "Arjun",
+      "age": 19,
+      "grade": "A+",
+      "subjects": ["Physics", "Chemistry", "Biology"]
+    }
+  ]
+}
