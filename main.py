@@ -74,3 +74,7 @@ for pdf in traning_data.glob("*.pdf"):
         page.save(images / f"{pdf.stem}_{i}.jpg", "JPEG")
 
 print("Done")
+
+
+
+# Hello
